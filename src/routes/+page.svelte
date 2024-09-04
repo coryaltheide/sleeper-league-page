@@ -19,6 +19,7 @@
     }
 
     #main {
+	text-align:center;
         flex-grow: 1;
         min-width: 320px;
         margin: 0 auto;
