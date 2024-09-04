@@ -26,8 +26,7 @@
     }
 
     .text {
-        justify-content: center;
-        align-items: center;
+        text-align: center;
         font-style: italic;
         padding: 0 30px;
         max-width: 620px;
