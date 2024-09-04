@@ -20,14 +20,15 @@
 
     #main {
         flex-grow: 1;
-        justify-content: center;
-        align-items: center;
         min-width: 320px;
         margin: 0 auto;
         padding: 60px 0;
     }
 
     .text {
+        justify-content: center;
+        align-items: center;
+        font-style: italic;
         padding: 0 30px;
         max-width: 620px;
         margin: 0 auto;
