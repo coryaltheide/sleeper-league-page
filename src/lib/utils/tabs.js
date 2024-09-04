@@ -74,6 +74,11 @@ export const tabs = [
         ]
     },
     {
+        icon: 'insights',
+        label: '⑬',
+        dest: '/astro',
+    },
+    {
         icon: 'lightbulb',
         label: 'Resources',
         dest: '/resources',
