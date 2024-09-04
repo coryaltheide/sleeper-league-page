@@ -70,6 +70,7 @@
 
     h6 {
         text-align: center;
+        font-style: oblique;
     }
 
     .homeBanner {
