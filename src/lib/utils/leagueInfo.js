@@ -10,6 +10,7 @@ export const homepageText = `
   <p>So when I touch down</p>
   <p>Call the amateurs and cut ’em from the team</p>
   <p>Ditch the clowns, get the crown</p>
+  <p></p>
 `;
 
 /*   STEP 3   */
