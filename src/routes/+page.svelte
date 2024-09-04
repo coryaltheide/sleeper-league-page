@@ -20,6 +20,8 @@
 
     #main {
         flex-grow: 1;
+        justify-content: center;
+        align-items: center;
         min-width: 320px;
         margin: 0 auto;
         padding: 60px 0;
